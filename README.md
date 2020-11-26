@@ -109,12 +109,10 @@ In my initial role with the Engineering Solutions Team, I focussed on self-impro
 - Microsoft (MCSE NT4 – MCP+I)
 - Altiris (ACE, – Altiris Certified Engineer 6.0)
 - Project Management – Chiefly Business School
- |
 - ITIL Foundations (2014)
 - TOGAF 9.1 Levels 1 and 2 (2015)
 - Extensive Macquarie Leadership Training (Macquarie Directors Program).
- |
-| --- | --- |
+
 
 **EDUCATION**
 
