@@ -106,8 +106,6 @@ In my initial role with the Engineering Solutions Team, I focussed on self-impro
 - Technisyst Computing (Brisbane) – Project Support Engineer / Network Administrator (1997 – 2000).
 
 **CERTIFICATIONS / TRAINING**
-
-|
 - Microsoft (MCSE NT4 – MCP+I)
 - Altiris (ACE, – Altiris Certified Engineer 6.0)
 - Project Management – Chiefly Business School
