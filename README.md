@@ -1,6 +1,8 @@
-_ **Scott Bassingthwaighte-Hatch** _
+**Scott Bassingthwaighte-Hatch**
 
-\_\_\_\_\_\_\_\_\_\_\_\_ _Email: bassings@gmail.com_ _+61 413 877523 www.__linkedin.com/in/bassings_ \_\_\_\_\_\_\_\_\_\_\_\_
+Email: bassings@gmail.com
++61 413 877523 
+www.linkedin.com/in/bassings
 
 **PROFESSIONAL SUMMARY**
 
@@ -16,8 +18,6 @@ I am a driven people leader with a deep technical background and a growth mindse
 - Designed and championed numerous projects to improve delivery, reduce costs and enable application builders to create excellent products in a high paced and time conscious environment.
 
 **AREAS OF EXPERTISE**
-
-|
 - Culture, diversity and inclusion champion
 - Coaching, mentoring and empowering high performance teams
 - C-level stakeholder communication
@@ -28,7 +28,6 @@ I am a driven people leader with a deep technical background and a growth mindse
 - Building and delivery of training programs
 - Process improvement
 - Application security and risk management
- |
 - Cost and budget management
 - Service delivery and service level management
 - Risk management
@@ -36,13 +35,10 @@ I am a driven people leader with a deep technical background and a growth mindse
 - Technical operations management
 - Enterprise architecture
 - Deep technical knowledge of technology infrastructure.
- |
-| --- | --- |
 
 **PROFESSIONAL EXPERIENCE**
 
-**Sourced Group Ltd (Toronto, Canada)****July 2019 – Present**
-
+**Sourced Group Ltd (Toronto, Canada)****July 2019 – October 2020**
 **Head of Consulting – North America**
 With my background in leadership and financial services I was sought out by Sourced to help build out their consulting practise in the North American region. Sourced specializes in developing and implementing at scale Cloud Computing programs for highly regulated and security conscious organizations. Sourced business strategy is to achieve 100% growth in revenue each year which makes it a fast paced and highly agile organization.
 
@@ -58,10 +54,8 @@ As a member of the North American leadership team reporting to the regional mana
 - Creation of career frameworks and career plans for the consulting team which resulted in a 25% increase in promotions.
 - Managed the successful transition of the practise to remote work during COVID 19
 
-**Macquarie Group Ltd (Sydney, NSW)****May 2005 – July 201**
-
+**Macquarie Group Ltd (Sydney, NSW)****May 2005 – July 2020**
 **Associate Director**** — **** Scrum Master / Project Manager **** — **** Infrastructure automation (2018)**
-
 This green field innovation project focussed on accelerating automation within Macquarie&#39;s Infrastructure portfolio, with the goal of enabling IT application development teams to build services faster and accelerate innovation.
 
 - Effective vendor management and collaboration with the consulting group UST Global
@@ -71,8 +65,7 @@ This green field innovation project focussed on accelerating automation within M
 - Developed an energised, empowered an agile team of programmers
 - Leveraged my network of relationships to get timely feedback to deliver the highest value capabilities faster.
 
-**Associate Director**** — **** Product Owner Virtualisation (2015 **–** 2017)**
-
+**Associate Director**** — **** Product Owner Virtualisation (2015 **–** 2017)*
 After architecting the services for a new Hong Kong data centre with I was chartered with ownership of the _On-premise VMware private cloud_ and the _Vendor managed private cloud_. The role was at the centre of an organisational migration to a _DevOps_ model, combining operations and engineering into an agile, continuous improvement model. As product owner I was accountable for the end to end operation and improvement of our Private Cloud services including roadmaps, budgets, risks and incidents. I effectively lead a team of 10 resources across 4 regions, with indirect management of a broader team.
 
 - Drove substantial cost saving by reducing wasted storage
@@ -82,7 +75,6 @@ After architecting the services for a new Hong Kong data centre with I was chart
 - Effectively delivered a managed global private cloud service.
 
 **Associate Director**** — **** Architect for Private Cloud and Infrastructure Automation (2013 **–** 2015)**
-
 As a key member of the _Cloud Services Team_ I managed the migration to a cloud-based model, enabling dev ops and continuous development. The model utilised the VMWare&#39;s vRealize Automation Centre to automate service delivery. This effectively reduced cost time to deliver, while allowing flexibility in deploying applications to multiple internal and external cloud computing farms (both private/public). This automated model was then effectively applied to the migration of a critical data centre in Hong Kong. The migration was successfully completed in a very time critical window, that was driven by the demolition of the building housing the existing data centre. Substantial cost savings were realised with no impact to the business during the migration.
 
 - Designed a solution to allow operating system deployment to be fully automated, end to end, saving hours of resource time-per-build and increasing the speed that business could deploy and test applications
@@ -91,7 +83,6 @@ As a key member of the _Cloud Services Team_ I managed the migration to a cloud-
 - Drove refactoring in Hong Kong, to move from Physical servers to converged virtual infrastructure, using the automation stack. Achieved substantial cost savings in data centre space and power costs by moving from 20% to 85% virtualisation.
 
 **Associate Director** – **Service Support Owner – Macquarie Group (2010** – **2013)**
-
 Effectively managed the global Windows Operation&#39;s teams to deliver efficiency and continuous service improvement. This resulted in measurable improvement to customer service and reduced operational costs. This included governance and accountability over the stability of global Wintel and virtualisation service including Active Directory, Windows Servers, File Services, Virtualisation (VMware), Monitoring (MS Systems Centre Operations Manager), Systems Management (MS System Centre Configuration Manager).
 
 - Implemented continuous service improvement principals in to the global support teams to focus on the cause of incidents and fixing root cause rather than dealing with symptoms
@@ -102,7 +93,6 @@ Effectively managed the global Windows Operation&#39;s teams to deliver efficien
 - Effectively transitioned resources from operations to engineering, resulting in reduced spend and accelerating delivery of new services to the business.
 
 **Senior Manager – Senior Wintel Engineer/ Team Leader (2005** – **2010)**
-
 In my initial role with the Engineering Solutions Team, I focussed on self-improvement and embraced the qualities of a self‑confident and respected leader. As a team lead I was responsible for effective, global delivery of all projects in the Wintel space. During this time, I managed 16 staff, ranging from graduates working their first job to seasoned senior engineers. Using my knowledge of technology and having a deep understanding of Macquarie&#39;s policies and risk management frameworks, I ensured that all Team members were empowered with the skills and knowledge to succeed.
 
 - Implemented an extensive roadmap to deliver changes that would drive business productivity, via solid collaboration
@@ -111,7 +101,6 @@ In my initial role with the Engineering Solutions Team, I focussed on self-impro
 - Engineered a global automated process to distribute the Windows OS, effectively reducing the build time for new servers.
 
 **PRE 2005**
-
 - Technisyst Pty Ltd – Senior Professional Services engineer (2001 – 2005)
 - Davnet Pty Ltd – System Operations Engineer (2000 – 2001)
 - Technisyst Computing (Brisbane) – Project Support Engineer / Network Administrator (1997 – 2000).
